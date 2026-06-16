@@ -113,4 +113,4 @@ LinkedIn:
 linkedin.com/in/Carl-Justin-Bonete
 
 Portfolio:
-yourportfolio.com
+boneteportfolio.vercel.app
